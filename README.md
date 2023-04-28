@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetandeulkar&label=Profile%20views&color=0e75b6&style=flat" alt="chetandeulkar" /> </p>
 
-- 🔭 I’m currently working on [Guru99 demo project](https://github.com/ChetanDeulkar/inetBankingV1)
+- 🔭 I’m currently working on [tutorialsninja](https://github.com/ChetanDeulkar/inetBankingV1)
 
 - 🌱 I’m currently learning **Selenium Frameworks**
 
